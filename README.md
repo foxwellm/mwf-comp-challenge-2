@@ -9,5 +9,8 @@ Static composition assigned:
 
 My Finished Version:
 
-![Finished Version](/images/readme/top.png)
-![Finished Version](/images/readme/bottom.png)
+![Finished Version](/images/readme/top-no-admin.png)
+![Finished Version](/images/readme/bot-no-admin.png)
+
+With admin bar pulled out:
+![Finished Version](/images/readme/top-with-admin.png)
